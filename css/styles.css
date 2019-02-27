@@ -1,0 +1,49 @@
+body {
+  background-color: #85cff7;
+  font-family: 'Helvetica', 'Arial', sans-serif;
+}
+
+#mess_section {
+  text-align: center;
+}
+
+p {
+  background-color: white;
+  margin: 20px auto;
+  padding: 20px;
+  width: 30%; 
+  border: black 3px solid;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+#clickMe {
+	color: white;
+	background-color: #85cff7;
+	
+	padding : 0.3em;
+	
+	border-radius : 5px;
+}
+
+.surprise {
+	background-image : url('images/image.jpg')
+}
+
+.mess{
+	color: white;
+	text-shadow: 0 0 5px rgba(0, 0, 0, 0.8);
+}
+
+#mess1 {
+	background-color : #a1fccf;
+}
+	
+#mess2 {
+	background-color : #ffdd96;
+}
+
+#mess3 {
+	background-color : #FEA1D4;
+}
+
